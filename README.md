@@ -14,7 +14,11 @@
 
 #### 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abrar Nabawi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barja__23) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@CUCOE PUTEH) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DAROS Ft AN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrar.n23@mhs.usk.ac.id)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abrar Nabawi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barja__23) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@CUCOE PUTEH) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DAROS Ft AN) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrar.n23@mhs.usk.ac.id)
 ![https://www.WhatsApp.com/+62813-7521-3129/](https://img.shields.io/badge/whatsAPP-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![https://www.mendeley.com/reference-manager/library/all-references](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white)
 ![https://www.Hackerrank.com/abrarn23/abrarNabawi/](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
