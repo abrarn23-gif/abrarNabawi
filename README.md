@@ -14,4 +14,4 @@
 🌱I'm Currently Learning [**Laravel**](https://Laravel.com) Framework
 
 #### Skills
-<img src="https://img.shields.io/badge/CSS3-157286HTMLSC553style-for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-157286?style=for-the-badge&logo=css3&logoColor=white" />
