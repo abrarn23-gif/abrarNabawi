@@ -4,7 +4,7 @@
 
 #### Training About Me
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gcp,aws,c,cs,cpp,clion,crystal,arduino,arch,atom,phyton,anaconda,apollo,ansible,apple,androidstudio,babel,firebase,flask,flutter,fortran,gimp,gitHub,gitLab,gmail,go,symfony,tensorflow,terraform,three.js,typescript,ubuntu,unity,unrealengine,vagrant,vim,virtualbox,visualStudio,vscode,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gcp,aws,c,cs,cpp,clion,crystal,arduino,arch,atom,phyton,anaconda,apollo,ansible,apple,androidstudio,babel,firebase,flask,flutter,fortran,gimp,GitHub,gitLab,gmail,go,symfony,tensorflow,terraform,three.js,typescript,ubuntu,unity,unrealengine,vagrant,vim,virtualbox,visualStudio,vscode,wasm)](https://skillicons.dev)
 
 🔭I'mCurrently  Working on ****@wpucourse**** 
 🌱I'm Currently Learning [**Laravel**](https://Laravel.com) Framework
