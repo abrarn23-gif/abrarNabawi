@@ -1,4 +1,4 @@
-4## Hello World! I'm abrarNabawi 💀☠️
+ ## Hello World! I'm abrarNabawi 💀☠️
 
 
 
@@ -23,5 +23,5 @@
 
 ##### My Github Stats
 
-[![abrarn23-gif'sGitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&show icons=true&theme=gruvbox)] (https://github.com/abrarn23-gif/github-readme-stats)
+![abrarn23-gif'sGitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&show icons=true&theme=gruvbox) (https://github.com/abrarn23-gif/github-readme-stats)
 
