@@ -31,8 +31,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abrarn23-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![abrarn23-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&show_cons=true&theme=great-gatsby)](https://github.com/abrarn23-gif/github-readme-stats)
-
 ##### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abrarn23-gif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
