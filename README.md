@@ -4,7 +4,7 @@
 
 #### Training About Me
 
-[![My Skills](https://skillicons.dev/icons?i=js.html.css.react.gcp.aws.c.cs.cpp.clion.crystal.arduino.arch.atom.phyton.anaconda.apollo.ansible.apple.androidstudio.wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gcp,zws,c,cs,cpp,clion,crystal,arduino,arch,atom,phyton,anaconda,apollo,ansible,apple,androidstudio,wasm)](https://skillicons.dev)
 
 🔭I'mCurrently  Working on ****@wpucourse**** 
 🌱I'm Currently Learning [**Laravel**](https://Laravel.com) Framework
