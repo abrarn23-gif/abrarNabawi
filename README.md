@@ -23,5 +23,5 @@
 
 ##### My Github Stats
 
-[![abrarn23-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&showicons=true&theme=gruvbox)](https://github.com/abrarn23-gif/github-readme-stats)
+[![abrarn23-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&showi_cons=true&theme=gruvbox)](https://github.com/abrarn23-gif/github-readme-stats)
 
