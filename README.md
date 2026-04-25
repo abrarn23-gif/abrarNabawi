@@ -20,3 +20,8 @@
 ![https://www.mendeley.com/reference-manager/library/all-references](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white)
 ![https://www.Hackerrank.com/abrarn23/abrarNabawi/](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![https://www.LeetCode.com/abrarn23/abrarNabawi/](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)
+
+##### My Github Stats
+abrarn23-gif
+[![abrarn23-gif'sGitHubstats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif)] (https://github.com/abrarn23-gif/github-readme-stats)
+
