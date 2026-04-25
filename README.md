@@ -22,6 +22,6 @@
 ![https://www.LeetCode.com/abrarn23/abrarNabawi/](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)
 
 ##### My Github Stats
-abrarn23-gif
-[![abrarn23-gif'sGitHubstats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif)] (https://github.com/abrarn23-gif/github-readme-stats)
+
+![abrarn23-gif'sGitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&show icons=true&theme=gruvbox)] (https://github.com/abrarn23-gif/github-readme-stats)
 
