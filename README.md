@@ -26,9 +26,11 @@
 
 ##### 📊 My Github Stats
 
-![](https://github-readme-stats.shion.dev/api?username=abrarn23-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=abrarn23-gif&theme=great-gatsby_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=abrarn23-gif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abrarn23-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 [![abrarn23-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&show_cons=true&theme=great-gatsby)](https://github.com/abrarn23-gif/github-readme-stats)
 
 ##### 🏆 GitHub Trophies
