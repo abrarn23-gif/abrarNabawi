@@ -1,4 +1,4 @@
- ## Hello World! I'm abrarNabawi 💀☠️
+## Hello World! I'm abrarNabawi 💀☠️
 
 
 
@@ -16,7 +16,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbrarNabawi) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barja__23) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@CUCOEPUTEH) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@130ms0anu) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DAROSFtAN) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrar.n23@mhs.usk.ac.id)
 ![https://www.WhatsApp.com/+62813-7521-3129/](https://img.shields.io/badge/whatsAPP-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
