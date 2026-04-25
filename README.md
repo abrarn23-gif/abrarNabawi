@@ -14,6 +14,6 @@
 ![https://instagram.com/barja__23](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 ![https://www.tiktok.com/@130ms0anu/](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![https://www.WhatsApp.com/+62813-7521-3129/](https://img.shields.io/badge/whatsAPP-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-![https://www.mendeley.com/settings/account/](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white)
+![https://www.mendeley.com/reference-manager/library/all-references](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white)
 ![https://www.Hackerrank.com/abrarn23/abrarNabawi/](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![https://www.LeetCode.com/abrarn23/abrarNabawi/](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)
