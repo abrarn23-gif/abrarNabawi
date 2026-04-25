@@ -41,3 +41,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=abrarn23-gif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://komarev.com/ghpvc/?username=abrarn23-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![abrarn23-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarn23-gif&show_cons=true&theme=great-gatsby)](https://github.com/abrarn23-gif/github-readme-stats)
